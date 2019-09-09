@@ -1,0 +1,12 @@
+{
+  "name": "Book Recommendations",
+  "version": "0.1.0",
+  "description": "To revive a lost form of entertainment",
+  "author": "Corrin M. Courville",
+  "scripts": {
+    "start": "node server.improved.js"
+  },
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
