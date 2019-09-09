@@ -1,6 +1,5 @@
 body{
-  background-image: url('https://cdn.glitch.com/1a8d2ad7-a868-4aaa-b0eb-cdcb02e00e93%2Flibrary2.0.jpg?v=1567996005197'), 
-    linear-gradient(#eb01a5,#d13531);
+  background-image: url('https://cdn.glitch.com/1a8d2ad7-a868-4aaa-b0eb-cdcb02e00e93%2Flibrary2.0.jpg?v=1567996005197');
   background-size: 100%; 
   background-position:top;
   background-origin:content-box;
