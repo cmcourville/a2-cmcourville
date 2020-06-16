@@ -2,6 +2,8 @@
 
 https://a2-cmcourville.glitch.me/
 
+https://cmcourville.github.io/a2-cmcourville/
+
 - This webpage was inspired by the fact that I love to read yet do not have to time to do so. The website accepts book recommendations by a user inputting the book's title and the book's author.
 - A challenge I faced with this application was figuring out in what way I wanted to/ was able to display all the data in the server’s memory  
 - To solve this problem, I added a navigation bar at the top of the window which allows you to view the entire “Library”
